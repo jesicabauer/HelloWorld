@@ -11,5 +11,5 @@ To run:
 
 Which should produce
 ```
-Hello World
+SO, THIS SHOULD PRINT "HELLO WORLD" and since I'm not changing the Java, what I say here doesn't actually matter. 
 ```
